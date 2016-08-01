@@ -1,1 +1,1 @@
-First task taken on in JavaScript
+First task completed in JavaScript
